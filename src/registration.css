@@ -1,0 +1,9 @@
+input{
+    width:auto;
+    height: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    margin-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
